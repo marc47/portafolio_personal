@@ -592,7 +592,7 @@ a:hover {
 .form-group__input,
 .form-group__textarea {
     padding: var(--spacing-md);
-    border: 2px solid var(--color-medium-ay);
+    border: 2px solid var(--color-medium-gray);
     border-radius: var(--border-radius);
     font-family: var(--font-family);
     font-size: var(--font-size-base);
@@ -608,7 +608,7 @@ a:hover {
 
 .form-group__input::placeholder,
 .form-group__textarea::placeholder {
-    color: var(--color-medium-gray);
+    color: var(--color-primary-dark);
 }
 
 .form-group__textarea {
